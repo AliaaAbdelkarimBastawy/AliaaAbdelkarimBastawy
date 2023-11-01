@@ -27,18 +27,6 @@ I'm open to collaborating on projects related to mobile app development, machine
 - Bachelor in Computer Engineering, Ain Shams University (2018-2023)
 
 
-## 💼 Experience
-
-- **Pepsico, Vodafone & Injaz Egypt** - "She Works Wonders" Program (9/2023 - 10/2023)
-- **"Anty" initiative and AHLI UNITED BANK, by University of Colorado** - UX/UI Internship (9/2023 - 10/2023, 270 Hours)
-- **CTD Egyptian Council & UN Women** - Flutter Internship (8/2023 - 10/2023)
-- **Smart Consulting Solutions** - SAP HCM Consultant Internship (7/2023 - 8/2023)
-- **Orange** - Flutter Workshop (2/2023 - 3/2023)
-- **Sprints** - DevOps Internship (8/2022 - 10/2022)
-- **Sprints** - Data Science Internship (8/2021 - 10/2021)
-- **Sprints** - Android App Development (7/2019 - 12/2019)
-- **Banque Misr** - Summer Training (7/2018 - 9/2018)
-
 ## 🚀 Graduation Project
 
 - **Mobile App "A+"**
