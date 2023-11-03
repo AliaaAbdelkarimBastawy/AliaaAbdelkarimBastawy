@@ -26,7 +26,6 @@ I'm open to collaborating on projects related to mobile app development, machine
 
 - Bachelor in Computer Engineering, Ain Shams University (2018-2023)
 
-
 ## 🚀 Graduation Project
 
 - **Mobile App "A+"**
@@ -44,4 +43,34 @@ I'm open to collaborating on projects related to mobile app development, machine
 
 - Arabic
 - English
-- French 
+- French
+
+## 💼 Sample Projects
+
+Here are some of the sample projects I've worked on:
+
+1. **[ContactsApp](https://github.com/AliaaAbdelkarimBastawy/ContactsApp)** - A contact management app that allows you to add, view, and delete contacts.
+
+2. **[Basketball-PointsCounter-App](https://github.com/AliaaAbdelkarimBastawy/Basketball-PointsCounter-App)** - An app for tracking basketball game scores with features to add and reset points for two teams.
+
+3. **[JapaneseLanguage-LearningApp](https://github.com/AliaaAbdelkarimBastawy/JapaneseLanguage-LearningApp)**  - An app to learn Japanese, covering family members, numbers, colors, and phrases, with audio pronunciation.
+
+4. **[TunesPlayer-App](https://github.com/AliaaAbdelkarimBastawy/TunesPlayer-App)** - A tune player app that allows users to play different tunes using the `audioplayers` package.
+
+5. **[BusinessCard-App](https://github.com/AliaaAbdelkarimBastawy/BusinessCard-App)**  - Create your digital business card with this Flutter app.
+
+6. **[FoodAllergyApp](https://github.com/AliaaAbdelkarimBastawy/FoodAllergyApp)**  - An app to manage and track food allergies.
+
+7. **[WagbaMobileApp](https://github.com/AliaaAbdelkarimBastawy/WagbaMobileApp)** (Java) - Mobile app project using Java for the local restaurants.
+
+8. **[Flutter-StateManagement](https://github.com/AliaaAbdelkarimBastawy/Flutter-StateManagement)** - A Flutter project showcasing provider state management techniques.
+
+9. **[Flutter-FetchAPI](https://github.com/AliaaAbdelkarimBastawy/Flutter-FetchAPI)**- A Flutter project demonstrating API data fetching.
+
+10. **[Flutter-Localization](https://github.com/AliaaAbdelkarimBastawy/Flutter-Localization)** - A Flutter project focused on localization and internationalization.
+
+Feel free to explore these projects and don't hesitate to reach out with any questions or suggestions!
+
+
+
+
