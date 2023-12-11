@@ -68,6 +68,10 @@ Here are some of the sample projects I've worked on:
 9. **[Flutter-FetchAPI](https://github.com/AliaaAbdelkarimBastawy/Flutter-FetchAPI)**- A Flutter project demonstrating API data fetching.
 
 10. **[Flutter-Localization](https://github.com/AliaaAbdelkarimBastawy/Flutter-Localization)** - A Flutter project focused on localization and internationalization.
+    
+11. **[Flutter-NewsApp](https://github.com/AliaaAbdelkarimBastawy/NewsApp.git)** - A Flutter application for accessing news articles.
+    
+12. **[Flutter-WeatherApp](https://github.com/AliaaAbdelkarimBastawy/WeatherApp.git)**  - A Flutter application providing detailed weather information for various cities worldwide.
 
 Feel free to explore these projects and don't hesitate to reach out with any questions or suggestions!
 
